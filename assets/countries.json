@@ -1,4 +1,4 @@
-{ "results": [
+[
 	{
         "area": "468",
         "capital": "Andorra la Vella",
@@ -3275,4 +3275,4 @@
         "tld": ".an",
         "updatedAt": "2015-03-07T11:11:30.443Z"
     }
-] }
+]
